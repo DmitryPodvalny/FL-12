@@ -1,0 +1,65 @@
+/* Todo: your styles go here*/
+.films{
+    display: flex;
+    flex-direction: column;
+}
+
+.contain-films{
+    display: flex;
+    align-items: center;
+
+}
+.Folders-1{
+    display: none;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.Folders-1.active{
+    display: flex;
+}
+.Folders-2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.item-1{
+    display: flex;
+    align-items: center;
+}
+.item-2{
+    display: flex;
+    align-items: center;
+}
+
+.item-3{
+    display: none;
+    align-items: center;
+    margin-left: 30px;
+}
+.Folders-3{
+    display: none;
+    flex-direction: column;
+    margin-left: 30px;
+}
+.Folders-3.active{
+    display: flex;
+}
+.documents{
+    display: flex;
+    align-items: center;
+}
+.folderItem-1{
+    display: flex;
+    align-items: center;
+}
+.folderItem-2{
+    display: none;
+    align-items: center;
+    margin-left: 30px;
+}
+.documents{
+    display: flex;
+    align-items: center;
+}
+
+
